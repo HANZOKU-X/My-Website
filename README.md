@@ -1,2 +1,10 @@
-# My-Website
-This is my best way
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "YOO WSP BROO!!";
+?> 
+
+</body>
+</html>
